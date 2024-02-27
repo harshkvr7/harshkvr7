@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harsh Verma</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<img src="./Hi IM HARSH.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkvr7&label=Profile%20views&color=0e75b6&style=flat" alt="alphacupcake10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkvr7&label=Profile%20views&color=0e75b6&style=flat" alt="harshkvr7" /> </p>
 
 - 🌱 I’m currently learning **PgSql, NodeJs, Express**
 
