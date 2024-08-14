@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkvr7&label=Profile%20views&color=0e75b6&style=flat" alt="harshkvr7" /> </p>
 
-- 🌱 I’m currently learning **PgSql, NodeJs, Express**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **harshkvr7@gmail.com**
 
