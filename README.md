@@ -57,11 +57,11 @@
     <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="50" height="40"/>
   </a>
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/CUDA_logo.svg" alt="CUDA" width="50" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Emblem.png" alt="CUDA" width="60" height="35"/>
   </a>
 </p>
 
-
+<br>
 
 ![harshkvr7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkvr7&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
