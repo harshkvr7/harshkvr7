@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40"/>
+    <img src="https://logowik.com/content/uploads/images/express-js1720895488.logowik.com.webp" alt="Express" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -58,6 +58,9 @@
   </a>
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Emblem.png" alt="CUDA" width="60" height="35"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="Spring" width="40" height="40"/>
   </a>
 </p>
 
